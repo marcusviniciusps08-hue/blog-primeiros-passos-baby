@@ -1,0 +1,64 @@
+# Diário do Bebê
+
+> Guias, comparativos e reviews de itens para bebês, com atenção ao que está declarado, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Comparativos
+- [5 alimentação e amamentação até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/alimentacao-e-amamentacao-ate-60/)
+- [4 banho, quarto e segurança até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/banho-quarto-e-seguranca-ate-60/)
+- [4 brinquedos de bebê até R$ 30: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/brinquedos-de-bebe-ate-30/)
+- [5 cercadinhos, berços e ninhos até R$ 250: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/cercadinhos-bercos-e-ninhos-ate-250/)
+- [4 fraldas descartáveis até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/fraldas-descartaveis-ate-40/)
+
+## Guias
+- [Como escolher item de alimentação: o que olhar na ficha antes de gastar (de R$ 29,90 a R$ 275,41)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-alimentacao/)
+- [Como escolher item de cuidado: o que olhar na ficha antes de gastar (de R$ 22,90 a R$ 78,20)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-cuidado/)
+- [Como escolher brinquedo de bebê: o que olhar na ficha antes de gastar (de R$ 17,59 a R$ 78,99)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-brinquedo-de-bebe/)
+- [Como escolher item de berço: o que olhar na ficha antes de gastar (de R$ 75,90 a R$ 619,90)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-berco/)
+- [Como escolher fralda: o que olhar na ficha antes de gastar (de R$ 33,90 a R$ 146,43)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-fralda/)
+
+## Reviews
+- [Bomba Tira Leite Materno Elétrica Portátil + Mamadeira: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/bomba-tira-leite-materno-eletrica-portatil-mamadeira-e37502/)
+- [Bomba Tira Leite Materno Elétrica Portátil Extratora Amamentação: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/bomba-tira-leite-materno-eletrica-portatil-extratora-amamentacao-fc5321/)
+- [Cadeira De Alimentação Bebê Portátil 3em1 Styll Baby: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/cadeira-de-alimentacao-bebe-portatil-3em1-styll-baby-2a1a19/)
+- [Cadeira De Alimentação Infantil 3 Em 1 Harmony: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/cadeira-de-alimentacao-infantil-3-em-1-harmony-15ae98/)
+- [Cadeira de Refeição Portátil Cosco Kids, Smart, Cinza: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/cadeira-de-refeicao-portatil-cosco-kids-smart-cinza-294ed4/)
+- [Copo Com Alça Removível 240 Ml Azul Claro em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/copo-com-alca-removivel-240-ml-azul-claro-7d1863/)
+- [Copo Transição Easy Sip 6m+ SCF551/05 Philips Avent: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/copo-transicao-easy-sip-6m-scf551-05-philips-avent-529ded/)
+- [Kit 25 Sacos Para Armazenar e Congelar Leite: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-25-sacos-para-armazenar-e-congelar-leite-82b280/)
+- [Granado Sabonete Líquido Glicerina Bebê Tradicional 500 ml em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/granado-sabonete-liquido-glicerina-bebe-tradicional-500-ml-99ddd7/)
+- [Kit 12 Sabonete Em Barra Nutri Spa Amêndoas: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-12-sabonete-em-barra-nutri-spa-amendoas-7b71ab/)
+- [Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-3-mantas-cobertor-microfibra-infantil-bebe-estampada-903218/)
+- [Ohana baby penico troninho vaso sanitario infantil privadinha: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/ohana-baby-penico-troninho-vaso-sanitario-infantil-privadinha-3f8fc4/)
+- [Ohana baby penico troninho vaso sanitario infantil privadinha: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/ohana-baby-penico-troninho-vaso-sanitario-infantil-privadinha-2d9e1b/)
+- [Portão Segurança Preto Pet Cachorro Crianca Ajustavel de em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/portao-seguranca-preto-pet-cachorro-crianca-ajustavel-de-f40ab0/)
+- [Troninho Privadinha Assento Redutor Pinico Para Desfralde Cinza: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/troninho-privadinha-assento-redutor-pinico-para-desfralde-cinza-c2e0c2/)
+- [Vittak 10 Trava Gaveta Armário Segurança Protetor Proteção em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/vittak-10-trava-gaveta-armario-seguranca-protetor-protecao-10a0b7/)
+- [Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/centopeia-espiral-bichinho-pelucia-brinquedo-carrinho-berco-bebe-e71275/)
+- [Kit Chocalhos E Mordedores Sensoriais Para Bebê Com em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-chocalhos-e-mordedores-sensoriais-para-bebe-com-c031fb/)
+- [Kit Mordedor para Bebê brinquedo Sensorial Silicone com: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-mordedor-para-bebe-brinquedo-sensorial-silicone-com-f78853/)
+- [Mesa Pedagógica Educativa Play Time Cotiplas Meninos Meninas em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/mesa-pedagogica-educativa-play-time-cotiplas-meninos-meninas-4c3cc4/)
+- [Shampoo para Bebê Johnson's Baby de Glicerina 400: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/shampoo-para-bebe-johnson-s-baby-de-glicerina-400-d66095/)
+- [Tapete Bebê Musical Piano Happy azul Wakaii: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/tapete-bebe-musical-piano-happy-azul-wakaii-6090ec/)
+- [Tapete Infantil Emborrachado Sensorial Dobrável Dupla Face Educativo: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/tapete-infantil-emborrachado-sensorial-dobravel-dupla-face-educativo-c59045/)
+- [Tapete Sensorial Inflável De Agua Atividades Tummy Time em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/tapete-sensorial-inflavel-de-agua-atividades-tummy-time-db0436/)
+- [Baby Trend XHRTWL180 chiqueirinho infantil com bordas laterais em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/baby-trend-xhrtwl180-chiqueirinho-infantil-com-bordas-laterais-1007d7/)
+- [Berço Portátil Infantil Cercado 0-15kg Lazy Maxi baby em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/berco-portatil-infantil-cercado-0-15kg-lazy-maxi-baby-8a88fe/)
+- [Berço Portátil Infantil Cercado Desmontável Lune Maxi Baby: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/berco-portatil-infantil-cercado-desmontavel-lune-maxi-baby-898451/)
+- [Berço Portátil PipDip Co-Sleeper, Com Balanço e Colchão em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/berco-portatil-pipdip-co-sleeper-com-balanco-e-colchao-1ffe67/)
+- [Cadeirinha Descanso Bebe Musical Maxi Baby Até 18kgs: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/cadeirinha-descanso-bebe-musical-maxi-baby-ate-18kgs-adbb7f/)
+- [Cercadinho Bebê Infantil Chiqueirinho Cercado Grande 180x150 Proteção em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/cercadinho-bebe-infantil-chiqueirinho-cercado-grande-180x150-protecao-5f32df/)
+- [Kit 02 Grade De Cama Normal E Box: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-02-grade-de-cama-normal-e-box-0a8c61/)
+- [Ninho Redutor Para Bebê Recém-nascido Maternidade Super Macia: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/ninho-redutor-para-bebe-recem-nascido-maternidade-super-macia-7b540f/)
+- [Fralda Descartável Turma da Mônica Baby M 50: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/fralda-descartavel-turma-da-monica-baby-m-50-07b38c/)
+- [Fralda Pampers Pants Ajuste Total Tamanho XG, 82: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/fralda-pampers-pants-ajuste-total-tamanho-xg-82-41a123/)
+- [Fralda Turma Da Mônica Baby Mega G 44 em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/fralda-turma-da-monica-baby-mega-g-44-253c9d/)
+- [Fraldas Descartáveis Baby Qu4troSec Com 62 Unidades Tamanho: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/fraldas-descartaveis-baby-qu4trosec-com-62-unidades-tamanho-5a760d/)
+- [Fraldas Pampers Descartáveis Premium Care Com 36 Unidades: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/fraldas-pampers-descartaveis-premium-care-com-36-unidades-7ff9d3/)
+- [Fraldas Pom Pom Protek M x 48 unidades em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/fraldas-pom-pom-protek-m-x-48-unidades-c571a9/)
+- [Huggies Fralda Descartável Máxima Proteção XXG - 112: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/huggies-fralda-descartavel-maxima-protecao-xxg-112-b9fae7/)
+- [Huggies Fralda Descartável Premium Natural Care RN 34 em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/huggies-fralda-descartavel-premium-natural-care-rn-34-426a30/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/sobre/)

@@ -1,22 +1,23 @@
 # Diário do Bebê
 
-> Guias, comparativos e reviews de itens para bebês, com atenção ao que está declarado, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de itens para bebês, com atenção ao que está declarado, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 alimentação e amamentação até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/alimentacao-e-amamentacao-ate-60/)
-- [4 banho, quarto e segurança até R$ 60: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/banho-quarto-e-seguranca-ate-60/)
-- [4 brinquedos de bebê até R$ 30: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/brinquedos-de-bebe-ate-30/)
-- [5 cercadinhos, berços e ninhos até R$ 250: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/cercadinhos-bercos-e-ninhos-ate-250/)
-- [4 fraldas descartáveis até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/fraldas-descartaveis-ate-40/)
+- [5 alimentação e amamentação até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/alimentacao-e-amamentacao-ate-60/)
+- [4 banho, quarto e segurança até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/banho-quarto-e-seguranca-ate-40/)
+- [4 brinquedos de bebê até R$ 30: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/brinquedos-de-bebe-ate-30/)
+- [5 cercadinhos, berços e ninhos até R$ 300: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/cercadinhos-bercos-e-ninhos-ate-300/)
+- [4 fraldas descartáveis até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/fraldas-descartaveis-ate-40/)
+- [3 outros produtos até R$ 20: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/outros-produtos-ate-20/)
 
 ## Guias
-- [Como escolher item de alimentação: o que olhar na ficha antes de gastar (de R$ 29,90 a R$ 275,41)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-alimentacao/)
+- [Como escolher item de alimentação: o que olhar na ficha antes de gastar (de R$ 29 a R$ 275,41)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-alimentacao/)
 - [Como escolher item de cuidado: o que olhar na ficha antes de gastar (de R$ 22,90 a R$ 78,20)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-cuidado/)
-- [Como escolher brinquedo de bebê: o que olhar na ficha antes de gastar (de R$ 17,59 a R$ 78,99)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-brinquedo-de-bebe/)
+- [Como escolher brinquedo de bebê: o que olhar na ficha antes de gastar (de R$ 20,99 a R$ 78,99)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-brinquedo-de-bebe/)
 - [Como escolher item de berço: o que olhar na ficha antes de gastar (de R$ 75,90 a R$ 619,90)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-berco/)
-- [Como escolher fralda: o que olhar na ficha antes de gastar (de R$ 33,90 a R$ 146,43)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-fralda/)
+- [Como escolher fralda: o que olhar na ficha antes de gastar (de R$ 33,90 a R$ 149,99)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-fralda/)
 
 ## Reviews
 - [Bomba Tira Leite Materno Elétrica Portátil + Mamadeira: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/bomba-tira-leite-materno-eletrica-portatil-mamadeira-e37502/)
@@ -32,10 +33,8 @@ Contém links de afiliado Mercado Livre.
 - [Kit 3 Mantas Cobertor Microfibra Infantil Bebê Estampada: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-3-mantas-cobertor-microfibra-infantil-bebe-estampada-903218/)
 - [Ohana baby penico troninho vaso sanitario infantil privadinha: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/ohana-baby-penico-troninho-vaso-sanitario-infantil-privadinha-3f8fc4/)
 - [Ohana baby penico troninho vaso sanitario infantil privadinha: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/ohana-baby-penico-troninho-vaso-sanitario-infantil-privadinha-2d9e1b/)
-- [Portão Segurança Preto Pet Cachorro Crianca Ajustavel de em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/portao-seguranca-preto-pet-cachorro-crianca-ajustavel-de-f40ab0/)
 - [Troninho Privadinha Assento Redutor Pinico Para Desfralde Cinza: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/troninho-privadinha-assento-redutor-pinico-para-desfralde-cinza-c2e0c2/)
 - [Vittak 10 Trava Gaveta Armário Segurança Protetor Proteção em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/vittak-10-trava-gaveta-armario-seguranca-protetor-protecao-10a0b7/)
-- [Centopéia Espiral Bichinho Pelúcia Brinquedo Carrinho Berço Bebê: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/centopeia-espiral-bichinho-pelucia-brinquedo-carrinho-berco-bebe-e71275/)
 - [Kit Chocalhos E Mordedores Sensoriais Para Bebê Com em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-chocalhos-e-mordedores-sensoriais-para-bebe-com-c031fb/)
 - [Kit Mordedor para Bebê brinquedo Sensorial Silicone com: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-mordedor-para-bebe-brinquedo-sensorial-silicone-com-f78853/)
 - [Mesa Pedagógica Educativa Play Time Cotiplas Meninos Meninas em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/mesa-pedagogica-educativa-play-time-cotiplas-meninos-meninas-4c3cc4/)
@@ -59,6 +58,9 @@ Contém links de afiliado Mercado Livre.
 - [Fraldas Pom Pom Protek M x 48 unidades em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/fraldas-pom-pom-protek-m-x-48-unidades-c571a9/)
 - [Huggies Fralda Descartável Máxima Proteção XXG - 112: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/huggies-fralda-descartavel-maxima-protecao-xxg-112-b9fae7/)
 - [Huggies Fralda Descartável Premium Natural Care RN 34 em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/huggies-fralda-descartavel-premium-natural-care-rn-34-426a30/)
+- [Chupeta Alimentação Infantil Mordedor Bebê Silicone Porta Frutas: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/chupeta-alimentacao-infantil-mordedor-bebe-silicone-porta-frutas-42e934/)
+- [Kit 7 Saquinhos Maternidade Organizador Mala Bebê 27: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/kit-7-saquinhos-maternidade-organizador-mala-bebe-27-b36276/)
+- [MORDEDOR PARA CACHORRO PRODUTO NATURAL RUSTICO MADEIRA DE: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/review/mordedor-para-cachorro-produto-natural-rustico-madeira-de-dec2c1/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/sobre/)

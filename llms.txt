@@ -5,16 +5,16 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 alimentação e amamentação até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/alimentacao-e-amamentacao-ate-60/)
-- [4 banho, quarto e segurança até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/banho-quarto-e-seguranca-ate-40/)
-- [4 brinquedos de bebê até R$ 30: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/brinquedos-de-bebe-ate-30/)
-- [5 cercadinhos, berços e ninhos até R$ 300: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/cercadinhos-bercos-e-ninhos-ate-300/)
-- [4 fraldas descartáveis até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/fraldas-descartaveis-ate-40/)
-- [3 outros produtos até R$ 20: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/outros-produtos-ate-20/)
+- [5 alimentação e amamentação até R$ 60: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/alimentacao-e-amamentacao-ate-60/)
+- [4 banho, quarto e segurança até R$ 40: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/banho-quarto-e-seguranca-ate-40/)
+- [4 brinquedos de bebê até R$ 30: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/brinquedos-de-bebe-ate-30/)
+- [5 cercadinhos, berços e ninhos até R$ 300: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/cercadinhos-bercos-e-ninhos-ate-300/)
+- [4 fraldas descartáveis até R$ 40: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/fraldas-descartaveis-ate-40/)
+- [3 outros produtos até R$ 20: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/top/outros-produtos-ate-20/)
 
 ## Guias
 - [Como escolher item de alimentação: o que olhar na ficha antes de gastar (de R$ 29 a R$ 275,41)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-alimentacao/)
-- [Como escolher item de cuidado: o que olhar na ficha antes de gastar (de R$ 22,90 a R$ 78,20)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-cuidado/)
+- [Como escolher item de cuidado: o que olhar na ficha antes de gastar (de R$ 21,10 a R$ 78,20)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-cuidado/)
 - [Como escolher brinquedo de bebê: o que olhar na ficha antes de gastar (de R$ 20,99 a R$ 78,99)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-brinquedo-de-bebe/)
 - [Como escolher item de berço: o que olhar na ficha antes de gastar (de R$ 75,90 a R$ 619,90)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-item-de-berco/)
 - [Como escolher fralda: o que olhar na ficha antes de gastar (de R$ 33,90 a R$ 149,99)](https://marcusviniciusps08-hue.github.io/blog-primeiros-passos-baby/guia/como-escolher-fralda/)
